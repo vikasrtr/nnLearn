@@ -61,3 +61,8 @@ target/
 .pydevproject
 .project
 .settings/
+
+img
+img_t
+lbl
+lbl_t

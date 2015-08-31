@@ -6,7 +6,7 @@ Project follows various components with various stages of development.
 At present, following components exist:
 
  - Simple demonstration for `backpropagation algorithm`
- - A sample experiment to classify digits based on MNIST dataset
+ - A sample experiment to classify digits based on MNIST dataset: `digit_demo.py`
 
 # Dependencies
  - Python 3+
